@@ -1,0 +1,13 @@
+_Assignment 2_
+
+_t1_           (5 marks)
+Find a way to execute the shell function using a vulnerality present in the program
+
+_t2_           (5 marks)
+Its not very easy to write malware. Very often the source code is not available
+and malware coders need to work with assembly.
+
+You are given an executable. You would need to (1) identify the vulnerability
+(2) and exploit it to get a shell.
+
+You can use the Return-to-libc attack that we did in class.

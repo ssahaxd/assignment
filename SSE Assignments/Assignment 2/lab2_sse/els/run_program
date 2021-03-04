@@ -1,0 +1,12 @@
+
+for ele in $(cat el_list.txt)
+do 
+
+#echo $ele
+
+./cs20s044_CS21Z004_2 $(cat $ele)
+
+echo "executed for $ele"
+
+
+done

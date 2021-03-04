@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613714000 source:/home/sandip/Desktop/SSE Assignments/Assignment 2/lab2_sse/SSE A2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
